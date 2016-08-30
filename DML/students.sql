@@ -29,3 +29,7 @@ VALUES
   ('Shane', 'Pittman'),
   ('Tommy', 'Gaessler'),
   ('Tyler', 'Maier');
+
+INSERT INTO students (first_name, last_name, jobs_applied)
+VALUES
+('James', 'Baxter', 10);
